@@ -1,7 +1,8 @@
 # WrtSFL
 
 Description
-This utility can write Subfile code for any given SQL select statement with little or no user interaction. It takes less than 20 seconds to write complete Subfile code. Check video at top/bottom of this page for more details.
+This utility can write Subfile code for any given SQL select statement with little or no user interaction. 
+It takes less than 20 seconds to write complete Subfile code. Check video at top/bottom of this page for more details.
 
 Main features:
 
