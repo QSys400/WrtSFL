@@ -1,5 +1,5 @@
 # WrtSFL 
-#(http://qsys400.com)
+#(http://QSys400.com)
 
 This utility can write IBM i (RPG + SQL) Subfile code for any given SQL select statement with little or no user interaction. 
 It takes less than 20 seconds to write complete Subfile code. Check video at top/bottom of this page for more details.
