@@ -3,7 +3,8 @@
 Description
 This utility can write IBM i (RPG + SQL) Subfile code for any given SQL select statement with little or no user interaction. 
 It takes less than 20 seconds to write complete Subfile code. Check video at top/bottom of this page for more details.
-<H3>Main features:</H3>
+<hr>
+<H3>on IBM i:</H3>
 
 Download WRTSFL.SAVF
 
