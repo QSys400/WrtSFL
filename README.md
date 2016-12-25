@@ -6,7 +6,7 @@ It takes less than 20 seconds to write complete Subfile code. Check video at top
 <hr>
 <H3>on IBM i:</H3>
 
-Download WRTSFL.SAVF
+After downloading WRTSFL.SAVF from GitHub
 
 FTP SAVF to IBM i as binary file.
 
