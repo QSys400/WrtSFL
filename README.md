@@ -10,7 +10,9 @@ After downloading WRTSFL.SAVF from GitHub
 
 FTP SAVF to IBM i as binary file.
 
-Restore Lib SUMIT from this savf.
+Restore Lib SUMIT from this savf. ==> RSTLIB SAVLIB(SUMITG) DEV(*SAVF) SAVF(*LIBL/WRTSFL)
+
+Use menu QSYS400 or command WrtSFL 
 
 Note: If move/copy objects from one lib to other move/copy PF(Tables) with data.
 <hr>
