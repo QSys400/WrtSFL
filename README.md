@@ -12,6 +12,7 @@ FTP SAVF to IBM i as binary file.
 
 Restore Lib SUMIT from this savf.
 
+Note: If move/copy objects from one lib to other move/copy PF(Tables) with data.
 <hr>
 
 <H3>Main features:</H3>
