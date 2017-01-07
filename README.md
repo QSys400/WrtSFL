@@ -1,6 +1,10 @@
 # WrtSFL 
 #(http://QSys400.com)
 
+#Download Link : http://qsys400.com/wrtsfl-write-subfile-code/
+
+Due to some technical issue I moved download link back to http://qsys400.com/wrtsfl-write-subfile-code/.
+
 This utility can write IBM i (RPG + SQL) Subfile code for any given SQL select statement with little or no user interaction. 
 It takes less than 20 seconds to write complete Subfile code. Check video at top/bottom of this page for more details.
 <hr>
